@@ -1,4 +1,4 @@
-#Prerequisites
+# Prerequisites
 This tool is a "wrapper" for FFmpeg. It will not work unless FFmpeg is installed and accessible in your system's PATH.
 
 
